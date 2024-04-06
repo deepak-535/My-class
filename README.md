@@ -1,2 +1,3 @@
 # My-class
-learning js through  Apna college
+learning js through  Apna college.
+
